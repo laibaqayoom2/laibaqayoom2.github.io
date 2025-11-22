@@ -27,7 +27,7 @@ export const LoadingScreen = ({ onComplete }) => {
     <div className="fixed inset-0 z-50 bg-white text-black flex flex-col items-center justify-center">
       {/* Profile Image */}
           <img 
-            src="public/my-img.png" 
+            src="images/my-img.png" 
             alt="Laiba Qayoom" 
             className="w-40 h-40 rounded-full mx-auto mb-6 border-4 border-blue-500/20 shadow-lg"
           />

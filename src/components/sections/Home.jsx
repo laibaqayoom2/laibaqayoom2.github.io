@@ -23,7 +23,7 @@ export const Home = () => {
               <div className="relative group">
                 <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-cyan-500 rounded-full blur-2xl opacity-30 group-hover:opacity-50 transition-opacity duration-500"></div>
                 <img 
-                  src="public/my-img.png" 
+                  src="images/my-img.png" 
                   alt="Laiba Qayoom" 
                   className="relative w-64 h-64 lg:w-80 lg:h-80 rounded-full object-cover border-4 border-blue-500/30 shadow-2xl group-hover:border-blue-400/50 transition-all duration-500 group-hover:scale-105"
                 />
