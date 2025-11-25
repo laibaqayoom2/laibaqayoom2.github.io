@@ -75,9 +75,9 @@ const projectList = [
     image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&h=500&fit=crop"
   },
   {
-    title: "Expense Tracker Web Application",
-    description: "A full-stack personal finance management platform.",
-    tech: [".NET Core", "Angular", "MySQL", "JWT"],
+    title: "Expense Tracker Application",
+    description: "A fpersonal finance management platforms frontend.",
+    tech: ["JavaScript", "React", "Figma"],
     features: [
       "Add, edit, delete expenses and income",
       "Smart categorization + filtering",
@@ -86,7 +86,7 @@ const projectList = [
       "Predictive insights for spending habits",
       "Dashboard with balance and recent transactions",
     ],
-    category: "Full-Stack",
+    category: "Front-end",
     github: "https://github.com/yourusername/expense-tracker",
     demo: "https://expense-demo.com",
     image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&h=500&fit=crop"
